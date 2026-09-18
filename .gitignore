@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+backend/data/*.db
+node_modules/
+dist/
+*.onnx
+*.pt
+*.tflite
+datasets/students/
