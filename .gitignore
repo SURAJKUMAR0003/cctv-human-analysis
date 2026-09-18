@@ -8,4 +8,4 @@ dist/
 *.onnx
 *.pt
 *.tflite
-datasets/students/
+datasets/students/backend/
